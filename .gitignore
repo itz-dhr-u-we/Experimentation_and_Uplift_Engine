@@ -1,0 +1,14 @@
+./data
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+env/
+ENV/
+
+data/raw_experiments.csv
+.gradio/
+.vscode/
+*.swp
+*.swo
