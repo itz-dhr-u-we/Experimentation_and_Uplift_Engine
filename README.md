@@ -1,6 +1,6 @@
 # Surge Pricing Causal Analyzer
 
-A production-grade machine learning and causal inference pipeline designed to optimize ride-sharing dynamic surge pricing, balancing short-term rider conversion rates against long-term customer churn risk.
+A simulated machine learning and causal inference pipeline designed to optimize ride-sharing dynamic surge pricing, balancing short-term rider conversion rates against long-term customer churn risk.
 
 # About the Project
 In multi-sided mobility marketplaces (such as Uber, Lyft, or Ola), dynamic surge pricing helps balance hyper-local driver supply and rider demand during peak hours. However, excessive price hikes often alienate users, leading to permanent app uninstalls (churn). 
